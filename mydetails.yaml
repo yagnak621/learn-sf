@@ -1,0 +1,6 @@
+details:
+  name: "kpushik"
+  "age": 26,
+  "city": "Bangalore"
+  "occupation": "Software Engineer"
+  "hobbies": ["reading", "traveling", "gaming"]
